@@ -1,7 +1,7 @@
 databases:
-  - name: mysite
-    databaseName: mysite
-    user: mysite
+  - name: app_sport
+    databaseName: app_sport
+    user: jfruizg
     plan: free
 
 services:
